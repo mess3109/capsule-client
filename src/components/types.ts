@@ -1,9 +1,8 @@
-
 export interface HeaderProps {
-  user: UserProps
+  user: UserProps;
 }
 
 export interface UserProps {
-  name: string,
-  email: string
+  name: string;
+  email: string;
 }
